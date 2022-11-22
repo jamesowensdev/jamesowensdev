@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Owens
 - 📚 I’m currently studying part time for a MSc Software Development @ Queen's University Belfast
-- 🌱 I’m currently learning Java Programming and Computer Science Fundamentals
+- 🌱 I’m learning Java Programming and Computer Science Fundamentals
 - 💡 I’m interested in learning C++ and Arduino programming
 - 📫 You can reach me on LinkedIn or via email (jamesowensdev@gmail.com)
 
