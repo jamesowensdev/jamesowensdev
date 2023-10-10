@@ -1,7 +1,7 @@
 - 👋 Hi, I’m James Owens
+- I work as a Graduate Software Engineer @ BT
 - 📚 I’m currently studying part time for a MSc Software Development @ Queen's University Belfast
-- 🌱 I’m learning Java Programming and Computer Science Fundamentals
-- 💡 I’m interested in learning C++ and Arduino programming
+- 🌱 I’m learning Web Development & exploring TypeScript
 - 📫 You can reach me on LinkedIn or via email (jamesowensdev@gmail.com)
 
 <!---
