@@ -1,6 +1,5 @@
 - 👋 Hi, I’m James Owens
 - I work as a Graduate Software Engineer @ BT
-- 📚 I’m currently studying part time for a MSc Software Development @ Queen's University Belfast
 - 🌱 I’m learning Web Development & exploring TypeScript
 - 📫 You can reach me on LinkedIn or via email (jamesowensdev@gmail.com)
 
