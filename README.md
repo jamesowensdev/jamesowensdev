@@ -17,7 +17,7 @@
 
 I am analysing the efficacy of **Geographic Profiling (GP)** techniques in predicting the nesting sites of **Central Place Foragers (CPF)**. My work focuses on analysing current methods and their shortcomings when applied to ecological processes, and will in future lead to the development and fine-tuning of a bespoke Ecological Geographic Profiling model.
 
-To begin with, I am building stochastic **Agent-Based Models (ABM)** to simulate animal movement and generate datasets to apply current GP methods to. Simultaneously I am investigating best sampling practices, using highlighting methods with non-perfect detection, and informing how studies should be setup in future to make the most out of GP methods.
+To begin with, I am building stochastic **Agent-Based Models (ABM)** to simulate animal movement and generate datasets to apply current GP methods to. Simultaneously, I am investigating best sampling practices, using highlighting methods with non-perfect detection, and informing how studies should be setup in future to make the most out of GP methods.
 
 ## 🧬 Featured Project: CPF & Camera Trap Simulation
 
