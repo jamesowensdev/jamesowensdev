@@ -2,10 +2,10 @@
 
 # Hi there, I'm James Owens 👋
 
-### PhD Researcher | Computational Ecology | Geographic Profiling
+### PhD Researcher | Computational Ecology | Statistical Ecology | Spatial Ecology 
 **School of Biological Sciences @ Queen's University Belfast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://[www.linkedin.com/](https://www.linkedin.com/in/james-owens-91b731168)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/james-owens-91b731168) 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jamesowens24@qub.ac.uk)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
