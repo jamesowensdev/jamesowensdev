@@ -23,7 +23,7 @@ To begin with, I am building stochastic **Agent-Based Models (ABM)** to simulate
 
 My current work involves developing a stochastic simulation engine in **R** (`R6`, `terra`, `gganimate`) to model how camera trap placement affects detection probability.
 
-This is the first bulding block in being able to effectively and reproducibly apply GP methods to simulated datasets.
+This is the first building block in being able to effectively and reproducibly apply GP methods to simulated datasets.
 
 > **The Model:** A Correlated Random Walk (CRW) observed by a probabilistic sensor network.
 
