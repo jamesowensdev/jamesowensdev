@@ -5,8 +5,8 @@
 ### PhD Researcher | Computational Ecology | Geographic Profiling
 **School of Biological Sciences @ Queen's University Belfast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/) 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@qub.ac.uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://[www.linkedin.com/](https://www.linkedin.com/in/james-owens-91b731168/)) 
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jamesowens24@qub.ac.uk)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 
 ---
@@ -15,13 +15,15 @@
 
 ## 🔭 Current Research Focus
 
-I am analysing the efficacy of **Geographic Profiling (GP)** techniques in predicting the nesting sites of **Central Place Foragers (CPF)**. My work focuses on variable, human-dominated landscapes where traditional detection methods struggle.
+I am analysing the efficacy of **Geographic Profiling (GP)** techniques in predicting the nesting sites of **Central Place Foragers (CPF)**. My work focuses on analysing current methods and their shortcomings when applied to ecological processes, and will in future lead to the development and fine-tuning of a bespoke Ecological Geographic Profiling model.
 
-To solve this, I build stochastic **Agent-Based Models (ABM)** to simulate animal movement and optimize camera trap networks.
+To begin with, I am building stochastic **Agent-Based Models (ABM)** to simulate animal movement and generate datasets to apply current GP methods to. Simultaneously I am investigating best sampling practices, using highlighting methods with non-perfect detection, and informing how studies should be setup in future to make the most out of GP methods.
 
 ## 🧬 Featured Project: CPF & Camera Trap Simulation
 
 My current work involves developing a stochastic simulation engine in **R** (`R6`, `terra`, `gganimate`) to model how camera trap placement affects detection probability.
+
+This is the first bulding block in being able to effectively and reproducibly apply GP methods to simulated datasets.
 
 > **The Model:** A Correlated Random Walk (CRW) observed by a probabilistic sensor network.
 
@@ -47,23 +49,11 @@ Where:
 
 ## 🛠️ Technical Stack
 
-* **Languages:** R (Advanced), Python, SQL
+* **Languages:** R, Java, SQL, Python, C, Rust (Beginner)
 * **Modelling:** Agent-Based Modelling (ABM), Stochastic Simulation, R6 OOP
 * **Spatial:** GIS (`terra`, `sf`), Spatial Ecology
 * **Tools:** Git, Quarto, LaTeX, Docker
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamesowensdev&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesowensdev&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
-
----
-<div align="center">
-  <small><i>"All models are wrong, but some are useful." — George Box</i></small>
-</div>
-<!---
 jamesowensdev/jamesowensdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
