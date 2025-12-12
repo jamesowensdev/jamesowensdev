@@ -36,7 +36,7 @@ This is the first bulding block in being able to effectively and reproducibly ap
 <details>
 <summary><b>📐 See the Mathematical Logic (Click to Expand)</b></summary>
 
-I model detection probability not as a binary radius, but as a **Reverse Sigmoid Function** to mimic real-world sensor decay:
+Model detection probability not as a binary radius, but as a **Reverse Sigmoid Function** to mimic real-world sensor decay:
 
 $$P(d) = P_{max} \times \frac{1}{1 + e^{k \cdot (d - d_{inf})}}$$
 
