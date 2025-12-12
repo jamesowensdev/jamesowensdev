@@ -53,7 +53,3 @@ Where:
 * **Modelling:** Agent-Based Modelling (ABM), Stochastic Simulation, R6 OOP
 * **Spatial:** GIS (`terra`, `sf`), Spatial Ecology
 * **Tools:** Git, Quarto, LaTeX, Docker
-
-jamesowensdev/jamesowensdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
