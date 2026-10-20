@@ -69,6 +69,14 @@ $$s_i = w\,\beta_H\,H(x_i) + \beta_{out}\cos\theta_{out,i} + \beta_{patch}\cos\t
 
 Earlier work on how camera-trap placement affects detection of a moving forager is in [cpf_simulation](https://github.com/jamesowensdev/cpf_simulation).
 
+## 📊 Languages
+
+<div align="center">
+  <img src="assets/languages.svg" width="520" alt="Share of code by programming language across my repositories" />
+</div>
+
+<sub>Generated weekly from all of my repositories, including private ones, by [a short script](scripts/language_stats.py). Only the percentages are published.</sub>
+
 ## 🛠️ Technical Stack
 
 * **Languages:** R, Python, Java, SQL, C, Rust (Beginner)
