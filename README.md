@@ -2,7 +2,7 @@
 
 # Hi there, I'm James Owens 👋
 
-### PhD Researcher | Computational Ecology | Statistical Ecology | Spatial Ecology 
+### PhD Researcher | Quantitative Ecology | Spatial Ecology 
 **School of Biological Sciences @ Queen's University Belfast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/james-owens-91b731168) 
